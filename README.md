@@ -7,4 +7,4 @@ An Excel-based fitness tracking dashboard with charts, slicers, and progress ana
 - Slicers for easy filtering
 - Clean dashboard layout
 
-![Dashboard Screenshot](screenshots/Screenshot 2025-11-25 151032.png)
+(screenshots/Screenshot 2025-11-25 151032.png)
